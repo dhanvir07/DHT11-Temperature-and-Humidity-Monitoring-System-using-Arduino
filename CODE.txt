@@ -1,0 +1,5 @@
+Place your Arduino sketch in this folder using the filename:
+
+DHT11_Temperature_Humidity.ino
+
+Upload this .ino file to your GitHub repository.
